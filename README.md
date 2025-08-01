@@ -1,4 +1,4 @@
-Here's a GitHub-ready content block similar to your Task 1 write-up, tailored for **Task 2 – EDA on Titanic Dataset** using the screenshot you provided:
+ **Task 2 – EDA on Titanic Dataset**:
 
 ---
 
