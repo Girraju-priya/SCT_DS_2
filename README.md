@@ -74,4 +74,3 @@ This task focuses on performing **Exploratory Data Analysis (EDA)** on the class
 
 ---
 
-Let me know when you're ready to upload your `.pbix` file or want help writing a proper `README.md` file for your GitHub repository!
